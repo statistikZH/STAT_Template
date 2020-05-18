@@ -1,6 +1,6 @@
 ![](/KtZuerichLogo.png)
 
-@all: Gibt es ev. eine svg Version des obigen Logos. Falls ja, würde dies verwenden. Dann wird das Logo beim Zoomen nicht verpixelt. 
+@all: Gibt es ev. eine svg Version des obigen Logos. Falls ja, würde dies verwenden. Dann wird das Logo beim Zoomen nicht verpixelt. Es wäre gut, wenn wir das svg auf dem ftp Server laden könnten. Dann müssten wir das Bild nicht jedes repos pushen.  
 
 # STAT_Schablone
 
