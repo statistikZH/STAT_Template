@@ -1,21 +1,35 @@
 ![](https://opendata.swiss/content/uploads/2016/02/kt_zh.png)
 
-# STAT_Schablone
+# Project Name
 
-## Lizenzen
+![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
+![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
+![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
+![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/statistik_zh?style=social)
 
-Wir verwenden normalerweise folgende Lizenzen: <br>
+## Prerequisites
 
-- Daten: https://github.com/openZH/covid_19/blob/master/LICENSE
-- Code: https://github.com/statistikZH/covid19_haushalte_vis/blob/master/LICENSE
+R VErsion zum Beispiel, Packages, etc.
 
+## Contributors
 
-## Zitiervorschlag
+Thanks to the following people who have contributed to this project
 
+[@kalakaru](https://github.com/kalakaru)
+[@mmznrSTAT](https://github.com/mmznrSTAT)
 
-## Kontakt
+## Use this Project
+
+Zitiervorschlag, Grafiken, ...
+
+## Contact
 
 Vorname Nachname <br>
 vorname.nachname@ji.statistik.zh.ch <br>
-Telefonnummer <br> 
+Telefonnummer <br>
 
+## License
+
+This project uses the following license: [Data license Name](<link>).
+This project uses the following license: [Code license Name](<link>).
