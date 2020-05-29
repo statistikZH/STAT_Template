@@ -32,5 +32,5 @@ Telefonnummer <br>
 ## License
 
 This project uses the following license: <br>
-- Data license: [Data license Name](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_code)
-- Code license: [Code license Name](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_data)
+- Data license: [Attribution 4.0 International](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_data)
+- Code license: [Copyright (c) <2019> <Statistisches Amt Kanton Zürich>](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_code)
