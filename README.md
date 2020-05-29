@@ -10,7 +10,7 @@
 
 ## Prerequisites
 
-R VErsion zum Beispiel, Packages, etc.
+R Version zum Beispiel, Packages, etc.
 
 ## Contributors
 
@@ -31,5 +31,6 @@ Telefonnummer <br>
 
 ## License
 
-This project uses the following license: [Data license Name](<link>).
-This project uses the following license: [Code license Name](<link>).
+This project uses the following license: <br>
+- Data license: [Data license Name](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_code)
+- Code license: [Code license Name](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_data)
