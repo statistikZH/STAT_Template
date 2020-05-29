@@ -36,4 +36,5 @@ This project uses the following license: <br>
 - Code license: [Copyright (c) <2019> <Statistisches Amt Kanton Zürich>](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_code)
 
 ## Code of Conduct
-[Our Code of Conduct](https://github.com/statistikZH/STAT_Schablone/blob/master/code_of_conduct.md) is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.0, available [here](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/statistikZH/STAT_Schablone/blob/master/code_of_conduct.md). By participating in this project you agree to abide by its terms.
+
