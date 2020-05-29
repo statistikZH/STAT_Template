@@ -34,3 +34,6 @@ Telefonnummer <br>
 This project uses the following license: <br>
 - Data license: [Attribution 4.0 International](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_data)
 - Code license: [Copyright (c) <2019> <Statistisches Amt Kanton Zürich>](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_code)
+
+## Code of Conduct
+[Our Code of Conduct](https://github.com/statistikZH/STAT_Schablone/blob/master/code_of_conduct.md) is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.0, available [here](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
