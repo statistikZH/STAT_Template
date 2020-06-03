@@ -41,9 +41,9 @@ Zitiervorschlag, Grafiken, ...
 
 ## Contact
 
-Vorname Nachname <br>
-vorname.nachname@ji.statistik.zh.ch <br>
-Telefonnummer <br>
+first name last name  <br>
+firstname.lastname@ji.statistik.zh.ch <br>
+phone number <br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/statistik_zh?style=social)
 
