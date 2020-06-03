@@ -19,9 +19,7 @@ R Code to obtain above listed information :
 
 ```R 
 # R version
-R.Version()
-version
-version[['version.string']]
+print(version[['version.string']])
 # R Studio Version
 require(rstudioapi)
 RStudioversionInfo <- versionInfo()
