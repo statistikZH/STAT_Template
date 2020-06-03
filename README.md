@@ -4,7 +4,31 @@
 
 ## Prerequisites
 
-R Version zum Beispiel, Packages, etc.
+E.g.: 
+
+R version 3.5.0 (2018-04-23) <br>
+RStudio version 1.1.453 <br>
+Deppendencies: <br>
+|package name | version number |
+| ------------- | ------------- | 
+|dplyr     |    0.8.3 |
+|sf     |    0.8-1 |
+
+
+R Code to obtain above listed information :
+
+```R 
+# R version
+R.Version()
+version
+version[['version.string']]
+# R Studio Version
+require(rstudioapi)
+RStudioversionInfo <- versionInfo()
+print(paste("RStudio version", RStudioversionInfo$version))
+# list names of loaded libraries with version number
+print(subset(data.frame(sessioninfo::package_info()), attached==TRUE, c(package, loadedversion)),  row.names = FALSE)
+```
 
 ## Contributors
 
