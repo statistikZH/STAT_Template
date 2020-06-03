@@ -2,12 +2,6 @@
 
 # Project Name
 
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/statistik_zh?style=social)
-
 ## Prerequisites
 
 R Version zum Beispiel, Packages, etc.
@@ -28,6 +22,8 @@ Zitiervorschlag, Grafiken, ...
 Vorname Nachname <br>
 vorname.nachname@ji.statistik.zh.ch <br>
 Telefonnummer <br>
+
+![Twitter Follow](https://img.shields.io/twitter/follow/statistik_zh?style=social)
 
 ## License
 
