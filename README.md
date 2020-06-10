@@ -35,9 +35,10 @@ Thanks to the following people who have contributed to this project
 [@kalakaru](https://github.com/kalakaru)
 [@mmznrSTAT](https://github.com/mmznrSTAT)
 
-## Use this Project
+## Project Description
 
-Zitiervorschlag, Grafiken, ...
+Describe the project here: introduction, methodology, results, recommended form of citation etc. <br>
+Don't forget that github is the place where we share code. Thus this is the place where interested people look for instructions on how the analysis was carried out, description of variables and other things to pay attention to when running the code. 
 
 ## Contact
 
