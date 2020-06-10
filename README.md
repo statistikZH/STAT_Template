@@ -1,10 +1,12 @@
 ![](https://opendata.swiss/content/uploads/2016/02/kt_zh.png)
 
-# Project Name
+# Projekt Name
 
-## Prerequisites
+*Read this in other languages: [English](README_EN.md)*
 
-E.g.: 
+## Voraussetzungen
+
+z.B.: 
 
 R version 3.5.0 (2018-04-23) <br>
 RStudio version 1.1.453 <br>
@@ -15,7 +17,7 @@ Deppendencies: <br>
 |sf     |    0.8-1 |
 
 
-R Code to obtain above listed information :
+R Code um die obigen Informationen zu erhalten: 
 
 ```R 
 # R version
@@ -28,34 +30,35 @@ print(paste("RStudio version", RStudioversionInfo$version))
 print(subset(data.frame(sessioninfo::package_info()), attached==TRUE, c(package, loadedversion)),  row.names = FALSE)
 ```
 
-## Contributors
+## Mitwirkende
 
-Thanks to the following people who have contributed to this project
+Vielen Dank an folgende Personen die mitgewirkt haben: 
 
 [@kalakaru](https://github.com/kalakaru)
 [@mmznrSTAT](https://github.com/mmznrSTAT)
 
-## Project Description
+## Projektbeschreibung
 
-Describe the project here: introduction, methodology, results, recommended form of citation etc. <br>
-Don't forget that github is the place where we share code. Thus this is the place where interested people look for instructions on how the analysis was carried out, description of variables and other things to pay attention to when running the code. 
+Beschreiben Sie hier das Projekt: Einführung, Methodik, Ergebnisse, empfohlene Zitierform etc. <br>
+Vergessen Sie nicht, dass github der Ort ist, an dem wir Code austauschen. Dies ist also der Ort, an dem interessierte Personen nach Anweisungen suchen. Interessierte möchen hier z.B: informationen zu folgenden Themen finden: Wie die Analyse durchgeführt wurde? Was muss beim Ausführen des Codes beachtet werden? Was bedeuten die Variablennamen? 
 
-## Contact
+## Kontakt
 
-first name last name  <br>
-firstname.lastname@ji.statistik.zh.ch <br>
-phone number <br>
+Vorname Nachname  <br>
+vorname.nachname@ji.statistik.zh.ch <br>
+Telefonnummer <br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/statistik_zh?style=social)
 
-## License
+## Lizenzen
 
-This project uses the following license: <br>
-- Data license: [Attribution 4.0 International](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_data)
-- Code license: [Copyright (c) <2019> <Statistisches Amt Kanton Zürich>](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_code)
+Dieses Projekt untersteht folgenden Lizenzen: <br>
+- Datenlizenz: [Attribution 4.0 International](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_data)
+- Codelizenz: [Copyright (c) <2019> <Statistisches Amt Kanton Zürich>](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_code)
 
-## Guidelines for contributing
-We welcome contributions. Please see our [CONTRIBUTING.md](https://github.com/statistikZH/STAT_Schablone/blob/master/CONTRIBUTING.md) file for detailed guidelines of how to contribute.
+## Richtlinien für Beiträge
+Wir begrüßen Beiträge. Bitte lesen Sie unsere  [CONTRIBUTING.md] (https://github.com/statistikZH/STAT_Schablone/blob/master/CONTRIBUTING.md) Datei, wenn sie daran interessiert sind. Hier finden Sie Informationen die zeigen wie Sie beitragen können. 
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/statistikZH/STAT_Schablone/blob/master/CodeOfConduct.md). By participating in this project you agree to abide by its terms.
+Bitte beachten Sie, dass dieses Projekt mit einem [Verhaltenskodex](https://github.com/statistikZH/STAT_Schablone/blob/master/CodeOfConduct.md) veröffentlicht wird. Mit Ihrer Teilnahme an diesem Projekt erklären Sie sich mit dessen Bedingungen einverstanden.
+
 
