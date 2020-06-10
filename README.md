@@ -40,7 +40,7 @@ Vielen Dank an folgende Personen die mitgewirkt haben:
 ## Projektbeschreibung
 
 Beschreiben Sie hier das Projekt: Einführung, Methodik, Ergebnisse, empfohlene Zitierform etc. <br>
-Vergessen Sie nicht, dass github der Ort ist, an dem wir Code austauschen. Dies ist also der Ort, an dem interessierte Personen nach Anweisungen suchen. Interessierte möchen hier z.B: informationen zu folgenden Themen finden: Wie die Analyse durchgeführt wurde? Was muss beim Ausführen des Codes beachtet werden? Was bedeuten die Variablennamen? 
+Bedenken Sie, dass github der Ort ist, an dem wir Code austauschen. Dies ist also der Ort, an dem interessierte Personen nach Anweisungen suchen. Interessierte möchen hier z.B: informationen zu folgenden Themen finden: Wie die Analyse durchgeführt wurde? Was muss beim Ausführen des Codes beachtet werden? Was bedeuten die Variablennamen? 
 
 ## Kontakt
 
