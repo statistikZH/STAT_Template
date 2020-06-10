@@ -38,7 +38,7 @@ Thanks to the following people who have contributed to this project
 ## Project Description
 
 Describe the project here: introduction, methodology, results, recommended form of citation etc. <br>
-Don't forget that github is the place where we share code. Thus this is the place where interested people look for instructions on how the analysis was carried out, description of variables and other things to pay attention to when running the code. 
+Remember that github is the place where we exchange code. So this is the place where interested people look for instructions: How was the analysis carried out? What has to be considered when running the code? What do the variable names mean? 
 
 ## Contact
 
