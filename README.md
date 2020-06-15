@@ -39,8 +39,8 @@ Vielen Dank an folgende Personen die mitgewirkt haben:
 
 ## Projektbeschreibung
 
-Beschreiben Sie hier das Projekt: Einführung, Methodik, Ergebnisse, empfohlene Zitierform etc. <br>
-Bedenken Sie, dass github der Ort ist, an dem wir Code austauschen. Dies ist also der Ort, an dem interessierte Personen nach Anweisungen suchen. Interessierte möchen hier z.B: informationen zu folgenden Themen finden: Wie die Analyse durchgeführt wurde? Was muss beim Ausführen des Codes beachtet werden? Was bedeuten die Variablennamen? 
+Beschreibe hier das Projekt: Einführung, Methodik, Ergebnisse, empfohlene Zitierform etc. <br>
+Bedenke, dass github der Ort ist, an dem wir Code austauschen. Dies ist also der Ort, an dem interessierte Personen nach Anweisungen suchen. Interessierte möchen hier z.B: informationen zu folgenden Themen finden: Wie die Analyse durchgeführt wurde? Was muss beim Ausführen des Codes beachtet werden? Was bedeuten die Variablennamen? 
 
 ## Kontakt
 
@@ -57,7 +57,7 @@ Dieses Projekt untersteht folgenden Lizenzen: <br>
 - Codelizenz: [Copyright (c) <2019> <Statistisches Amt Kanton Zürich>](https://github.com/statistikZH/STAT_Schablone/blob/master/LICENSE_code)
 
 ## Richtlinien für Beiträge
-Wir begrüßen Beiträge. Bitte lesen Sie unsere  [CONTRIBUTING.md] (https://github.com/statistikZH/STAT_Schablone/blob/master/CONTRIBUTING.md) Datei, wenn sie daran interessiert sind. Hier finden Sie Informationen die zeigen wie Sie beitragen können. 
+Wir begrüßen Beiträge. Bitte lesen Sie unsere [CONTRIBUTING.md] (https://github.com/statistikZH/STAT_Schablone/blob/master/CONTRIBUTING.md) Datei, wenn sie daran interessiert sind. Hier finden Sie Informationen die zeigen wie Sie beitragen können. 
 
 Bitte beachten Sie, dass dieses Projekt mit einem [Verhaltenskodex](https://github.com/statistikZH/STAT_Schablone/blob/master/CodeOfConduct.md) veröffentlicht wird. Mit Ihrer Teilnahme an diesem Projekt erklären Sie sich mit dessen Bedingungen einverstanden.
 
