@@ -2,6 +2,11 @@
 
 # Project Name
 
+## Project Description
+
+Describe the project here: introduction, methodology, results, recommended form of citation etc. <br>
+Remember that github is the place where we exchange code. So this is the place where interested people look for instructions: How was the analysis carried out? What has to be considered when running the code? What do the variable names mean? 
+
 ## Prerequisites
 
 E.g.: 
@@ -34,11 +39,6 @@ Thanks to the following people who have contributed to this project
 
 [@kalakaru](https://github.com/kalakaru)
 [@mmznrSTAT](https://github.com/mmznrSTAT)
-
-## Project Description
-
-Describe the project here: introduction, methodology, results, recommended form of citation etc. <br>
-Remember that github is the place where we exchange code. So this is the place where interested people look for instructions: How was the analysis carried out? What has to be considered when running the code? What do the variable names mean? 
 
 ## Contact
 
